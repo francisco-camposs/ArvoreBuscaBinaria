@@ -20,5 +20,7 @@ public class Main {
             System.out.println("Não encontrou essa porra.");
         }
 
+        System.out.println(tree);
+
     }
 }

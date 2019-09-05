@@ -77,4 +77,9 @@ public class ArvoreBuscaBinaria {
         Node n = new Node(value);
         insert(n);
     }
+
+    @Override
+    public String toString() {
+        return "FODA-SE!!!!";
+    }
 }
